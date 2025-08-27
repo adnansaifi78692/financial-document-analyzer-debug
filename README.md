@@ -448,3 +448,7 @@ See `requirements.txt` for complete dependency specifications with version const
 4. **API documentation** with examples
 5. **Professional system** ready for production use
 
+### **Known Limitations:**
+- **Tool Integration:** Simplified for compatibility with CrewAI 0.130.0 - tools were removed to resolve import and validation errors
+
+
